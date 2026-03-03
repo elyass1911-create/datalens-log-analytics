@@ -1,0 +1,7 @@
+﻿{
+    "requested":  100000,
+    "inserted":  100000,
+    "mode":  "jdbc",
+    "elapsedMs":  3495,
+    "totalRows":  100000
+}

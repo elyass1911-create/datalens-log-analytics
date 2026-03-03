@@ -1,0 +1,26 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/datalens
+    username: datalens
+    password: datalens
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        format_sql: true
+        jdbc:
+          batch_size: 1000
+        order_inserts: true
+        batch_versioned_data: true
+    show-sql: false
+  flyway:
+    enabled: true
+logging:
+  level:
+    root: info
+    org.hibernate.SQL: warn

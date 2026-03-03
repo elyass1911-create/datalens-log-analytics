@@ -1,0 +1,1450 @@
+﻿{
+    "value":  [
+                  {
+                      "windowStart":  "2026-03-02T00:42:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T00:47:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T00:52:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T00:57:18.326980Z",
+                      "totalCount":  38,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:02:18.326980Z",
+                      "totalCount":  39,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:07:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:12:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:17:18.326980Z",
+                      "totalCount":  55,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:22:18.326980Z",
+                      "totalCount":  59,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:27:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:32:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:37:18.326980Z",
+                      "totalCount":  40,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:42:18.326980Z",
+                      "totalCount":  39,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:47:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:52:18.326980Z",
+                      "totalCount":  40,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T01:57:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:02:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:07:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:12:18.326980Z",
+                      "totalCount":  42,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:17:18.326980Z",
+                      "totalCount":  41,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:22:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:27:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:32:18.326980Z",
+                      "totalCount":  61,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:37:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:42:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:47:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:52:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T02:57:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:02:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:07:18.326980Z",
+                      "totalCount":  59,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:12:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:17:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:22:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:27:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:32:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:37:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:42:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:47:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:52:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T03:57:18.326980Z",
+                      "totalCount":  64,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:02:18.326980Z",
+                      "totalCount":  71,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:07:18.326980Z",
+                      "totalCount":  61,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:12:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:17:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:22:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:27:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:32:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:37:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:42:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:47:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:52:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T04:57:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:02:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:07:18.326980Z",
+                      "totalCount":  42,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:12:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:17:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:22:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:27:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:32:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:37:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:42:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:47:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:52:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T05:57:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:02:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:07:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:12:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:17:18.326980Z",
+                      "totalCount":  42,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:22:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:27:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:32:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:37:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:42:18.326980Z",
+                      "totalCount":  66,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:47:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:52:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T06:57:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:02:18.326980Z",
+                      "totalCount":  40,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:07:18.326980Z",
+                      "totalCount":  37,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:12:18.326980Z",
+                      "totalCount":  37,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:17:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:22:18.326980Z",
+                      "totalCount":  55,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:27:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:32:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:37:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:42:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:47:18.326980Z",
+                      "totalCount":  65,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:52:18.326980Z",
+                      "totalCount":  62,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T07:57:18.326980Z",
+                      "totalCount":  55,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:02:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:07:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:12:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:17:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:22:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:27:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:32:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:37:18.326980Z",
+                      "totalCount":  59,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:42:18.326980Z",
+                      "totalCount":  65,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:47:18.326980Z",
+                      "totalCount":  76,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:52:18.326980Z",
+                      "totalCount":  77,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T08:57:18.326980Z",
+                      "totalCount":  83,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:02:18.326980Z",
+                      "totalCount":  82,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:07:18.326980Z",
+                      "totalCount":  78,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:12:18.326980Z",
+                      "totalCount":  91,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:17:18.326980Z",
+                      "totalCount":  101,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:22:18.326980Z",
+                      "totalCount":  105,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:27:18.326980Z",
+                      "totalCount":  95,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:32:18.326980Z",
+                      "totalCount":  90,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:37:18.326980Z",
+                      "totalCount":  88,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:42:18.326980Z",
+                      "totalCount":  97,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:47:18.326980Z",
+                      "totalCount":  117,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:52:18.326980Z",
+                      "totalCount":  144,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T09:57:18.326980Z",
+                      "totalCount":  150,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:02:18.326980Z",
+                      "totalCount":  155,
+                      "errorCount":  10
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:07:18.326980Z",
+                      "totalCount":  148,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:12:18.326980Z",
+                      "totalCount":  153,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:17:18.326980Z",
+                      "totalCount":  161,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:22:18.326980Z",
+                      "totalCount":  150,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:27:18.326980Z",
+                      "totalCount":  144,
+                      "errorCount":  10
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:32:18.326980Z",
+                      "totalCount":  149,
+                      "errorCount":  13
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:37:18.326980Z",
+                      "totalCount":  157,
+                      "errorCount":  14
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:42:18.326980Z",
+                      "totalCount":  163,
+                      "errorCount":  10
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:47:18.326980Z",
+                      "totalCount":  154,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:52:18.326980Z",
+                      "totalCount":  162,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T10:57:18.326980Z",
+                      "totalCount":  155,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:02:18.326980Z",
+                      "totalCount":  156,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:07:18.326980Z",
+                      "totalCount":  166,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:12:18.326980Z",
+                      "totalCount":  176,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:17:18.326980Z",
+                      "totalCount":  174,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:22:18.326980Z",
+                      "totalCount":  157,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:27:18.326980Z",
+                      "totalCount":  153,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:32:18.326980Z",
+                      "totalCount":  150,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:37:18.326980Z",
+                      "totalCount":  151,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:42:18.326980Z",
+                      "totalCount":  149,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:47:18.326980Z",
+                      "totalCount":  155,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:52:18.326980Z",
+                      "totalCount":  161,
+                      "errorCount":  13
+                  },
+                  {
+                      "windowStart":  "2026-03-02T11:57:18.326980Z",
+                      "totalCount":  168,
+                      "errorCount":  12
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:02:18.326980Z",
+                      "totalCount":  174,
+                      "errorCount":  12
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:07:18.326980Z",
+                      "totalCount":  163,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:12:18.326980Z",
+                      "totalCount":  165,
+                      "errorCount":  11
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:17:18.326980Z",
+                      "totalCount":  155,
+                      "errorCount":  10
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:22:18.326980Z",
+                      "totalCount":  155,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:27:18.326980Z",
+                      "totalCount":  145,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:32:18.326980Z",
+                      "totalCount":  147,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:37:18.326980Z",
+                      "totalCount":  161,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:42:18.326980Z",
+                      "totalCount":  165,
+                      "errorCount":  10
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:47:18.326980Z",
+                      "totalCount":  138,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:52:18.326980Z",
+                      "totalCount":  100,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T12:57:18.326980Z",
+                      "totalCount":  69,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:02:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:07:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:12:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:17:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:22:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:27:18.326980Z",
+                      "totalCount":  46,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:32:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:37:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:42:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:47:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:52:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T13:57:18.326980Z",
+                      "totalCount":  64,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:02:18.326980Z",
+                      "totalCount":  56,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:07:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:12:18.326980Z",
+                      "totalCount":  34,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:17:18.326980Z",
+                      "totalCount":  39,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:22:18.326980Z",
+                      "totalCount":  38,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:27:18.326980Z",
+                      "totalCount":  38,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:32:18.326980Z",
+                      "totalCount":  29,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:37:18.326980Z",
+                      "totalCount":  31,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:42:18.326980Z",
+                      "totalCount":  37,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:47:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:52:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T14:57:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:02:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:07:18.326980Z",
+                      "totalCount":  41,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:12:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:17:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:22:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:27:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:32:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:37:18.326980Z",
+                      "totalCount":  67,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:42:18.326980Z",
+                      "totalCount":  65,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:47:18.326980Z",
+                      "totalCount":  61,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:52:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T15:57:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:02:18.326980Z",
+                      "totalCount":  44,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:07:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:12:18.326980Z",
+                      "totalCount":  56,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:17:18.326980Z",
+                      "totalCount":  66,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:22:18.326980Z",
+                      "totalCount":  63,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:27:18.326980Z",
+                      "totalCount":  63,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:32:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:37:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:42:18.326980Z",
+                      "totalCount":  55,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:47:18.326980Z",
+                      "totalCount":  67,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:52:18.326980Z",
+                      "totalCount":  61,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T16:57:18.326980Z",
+                      "totalCount":  62,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:02:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:07:18.326980Z",
+                      "totalCount":  56,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:12:18.326980Z",
+                      "totalCount":  55,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:17:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:22:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:27:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:32:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:37:18.326980Z",
+                      "totalCount":  50,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:42:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:47:18.326980Z",
+                      "totalCount":  60,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:52:18.326980Z",
+                      "totalCount":  84,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T17:57:18.326980Z",
+                      "totalCount":  95,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:02:18.326980Z",
+                      "totalCount":  105,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:07:18.326980Z",
+                      "totalCount":  102,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:12:18.326980Z",
+                      "totalCount":  104,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:17:18.326980Z",
+                      "totalCount":  107,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:22:18.326980Z",
+                      "totalCount":  114,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:27:18.326980Z",
+                      "totalCount":  112,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:32:18.326980Z",
+                      "totalCount":  113,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:37:18.326980Z",
+                      "totalCount":  104,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:42:18.326980Z",
+                      "totalCount":  103,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:47:18.326980Z",
+                      "totalCount":  93,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:52:18.326980Z",
+                      "totalCount":  94,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T18:57:18.326980Z",
+                      "totalCount":  97,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:02:18.326980Z",
+                      "totalCount":  100,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:07:18.326980Z",
+                      "totalCount":  101,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:12:18.326980Z",
+                      "totalCount":  112,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:17:18.326980Z",
+                      "totalCount":  107,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:22:18.326980Z",
+                      "totalCount":  98,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:27:18.326980Z",
+                      "totalCount":  90,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:32:18.326980Z",
+                      "totalCount":  98,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:37:18.326980Z",
+                      "totalCount":  112,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:42:18.326980Z",
+                      "totalCount":  115,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:47:18.326980Z",
+                      "totalCount":  114,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:52:18.326980Z",
+                      "totalCount":  110,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T19:57:18.326980Z",
+                      "totalCount":  98,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:02:18.326980Z",
+                      "totalCount":  95,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:07:18.326980Z",
+                      "totalCount":  91,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:12:18.326980Z",
+                      "totalCount":  99,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:17:18.326980Z",
+                      "totalCount":  102,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:22:18.326980Z",
+                      "totalCount":  111,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:27:18.326980Z",
+                      "totalCount":  110,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:32:18.326980Z",
+                      "totalCount":  107,
+                      "errorCount":  6
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:37:18.326980Z",
+                      "totalCount":  98,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:42:18.326980Z",
+                      "totalCount":  88,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:47:18.326980Z",
+                      "totalCount":  98,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:52:18.326980Z",
+                      "totalCount":  104,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T20:57:18.326980Z",
+                      "totalCount":  116,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:02:18.326980Z",
+                      "totalCount":  109,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:07:18.326980Z",
+                      "totalCount":  112,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:12:18.326980Z",
+                      "totalCount":  112,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:17:18.326980Z",
+                      "totalCount":  101,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:22:18.326980Z",
+                      "totalCount":  94,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:27:18.326980Z",
+                      "totalCount":  86,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:32:18.326980Z",
+                      "totalCount":  94,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:37:18.326980Z",
+                      "totalCount":  89,
+                      "errorCount":  9
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:42:18.326980Z",
+                      "totalCount":  96,
+                      "errorCount":  13
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:47:18.326980Z",
+                      "totalCount":  90,
+                      "errorCount":  11
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:52:18.326980Z",
+                      "totalCount":  72,
+                      "errorCount":  8
+                  },
+                  {
+                      "windowStart":  "2026-03-02T21:57:18.326980Z",
+                      "totalCount":  56,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:02:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:07:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:12:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:17:18.326980Z",
+                      "totalCount":  43,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:22:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:27:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:32:18.326980Z",
+                      "totalCount":  57,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:37:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:42:18.326980Z",
+                      "totalCount":  42,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:47:18.326980Z",
+                      "totalCount":  41,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:52:18.326980Z",
+                      "totalCount":  42,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T22:57:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:02:18.326980Z",
+                      "totalCount":  56,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:07:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:12:18.326980Z",
+                      "totalCount":  58,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:17:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:22:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:27:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  1
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:32:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:37:18.326980Z",
+                      "totalCount":  51,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:42:18.326980Z",
+                      "totalCount":  49,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:47:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  2
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:52:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  5
+                  },
+                  {
+                      "windowStart":  "2026-03-02T23:57:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:02:18.326980Z",
+                      "totalCount":  58,
+                      "errorCount":  7
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:07:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:12:18.326980Z",
+                      "totalCount":  48,
+                      "errorCount":  4
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:17:18.326980Z",
+                      "totalCount":  45,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:22:18.326980Z",
+                      "totalCount":  47,
+                      "errorCount":  0
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:27:18.326980Z",
+                      "totalCount":  53,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:32:18.326980Z",
+                      "totalCount":  54,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:37:18.326980Z",
+                      "totalCount":  58,
+                      "errorCount":  3
+                  },
+                  {
+                      "windowStart":  "2026-03-03T00:42:18.326980Z",
+                      "totalCount":  52,
+                      "errorCount":  1
+                  }
+              ],
+    "Count":  289
+}

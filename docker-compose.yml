@@ -1,0 +1,15 @@
+services:
+  datalens-postgres:
+    image: postgres:16
+    container_name: datalens-postgres
+    environment:
+      POSTGRES_DB: datalens
+      POSTGRES_USER: datalens
+      POSTGRES_PASSWORD: datalens
+    ports:
+      - "5433:5432"
+    volumes:
+      - datalens_pgdata:/var/lib/postgresql/data
+
+volumes:
+  datalens_pgdata:

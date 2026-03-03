@@ -1,0 +1,15 @@
+﻿{
+    "scenario":  "topIps",
+    "profile":  "optimized",
+    "iterations":  5,
+    "variants":  [
+                     {
+                         "variant":  "base",
+                         "meanMs":  9.69,
+                         "p95Ms":  13.72,
+                         "minMs":  8.08,
+                         "maxMs":  13.72
+                     }
+                 ],
+    "totalDurationMs":  48
+}

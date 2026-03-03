@@ -1,0 +1,30 @@
+﻿{
+    "value":  [
+                  {
+                      "endpoint":  "/api/orders",
+                      "requestCount":  257,
+                      "avgLatencyMs":  205.06225680933852
+                  },
+                  {
+                      "endpoint":  "/api/login",
+                      "requestCount":  218,
+                      "avgLatencyMs":  178.22477064220183
+                  },
+                  {
+                      "endpoint":  "/api/search",
+                      "requestCount":  194,
+                      "avgLatencyMs":  180.95876288659792
+                  },
+                  {
+                      "endpoint":  "/api/products",
+                      "requestCount":  194,
+                      "avgLatencyMs":  179.53092783505156
+                  },
+                  {
+                      "endpoint":  "/api/users",
+                      "requestCount":  185,
+                      "avgLatencyMs":  203.0810810810811
+                  }
+              ],
+    "Count":  5
+}

@@ -1,0 +1,22 @@
+﻿{
+    "scenario":  "errorRate",
+    "profile":  "optimized",
+    "iterations":  5,
+    "variants":  [
+                     {
+                         "variant":  "date_trunc_bucket",
+                         "meanMs":  12.16,
+                         "p95Ms":  16.42,
+                         "minMs":  10.21,
+                         "maxMs":  16.42
+                     },
+                     {
+                         "variant":  "generated_series_bucket",
+                         "meanMs":  54.24,
+                         "p95Ms":  221.58,
+                         "minMs":  10.85,
+                         "maxMs":  221.58
+                     }
+                 ],
+    "totalDurationMs":  332
+}
