@@ -42,9 +42,30 @@ class AnalyticsIntegrationTest {
 
     @DynamicPropertySource
     static void configure(DynamicPropertyRegistry registry) {
-        registry.add("spring.datasource.url", POSTGRES::getJdbcUrl);
-        registry.add("spring.datasource.username", POSTGRES::getUsername);
-        registry.add("spring.datasource.password", POSTGRES::getPassword);
+        registry.add("spring.datasource.url", AnalyticsIntegrationTest::jdbcUrl);
+        registry.add("spring.datasource.username", AnalyticsIntegrationTest::username);
+        registry.add("spring.datasource.password", AnalyticsIntegrationTest::password);
+    }
+
+    private static String jdbcUrl() {
+        ensureContainerStarted();
+        return POSTGRES.getJdbcUrl();
+    }
+
+    private static String username() {
+        ensureContainerStarted();
+        return POSTGRES.getUsername();
+    }
+
+    private static String password() {
+        ensureContainerStarted();
+        return POSTGRES.getPassword();
+    }
+
+    private static void ensureContainerStarted() {
+        if (!POSTGRES.isRunning()) {
+            POSTGRES.start();
+        }
     }
 
     @BeforeAll
