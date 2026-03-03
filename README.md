@@ -301,7 +301,7 @@ Generated evidence in `docs/proof/` includes:
 - EXPLAIN ANALYZE responses
 - sample analytics endpoint responses
 
-## CV-Ready Highlights
+## What This Demonstrates
 
 - Built a high-volume event analytics backend with dual ingestion paths (JDBC/JPA) up to multi-million rows.
 - Designed and benchmarked query/index strategies using PostgreSQL native analytics SQL and EXPLAIN ANALYZE.
