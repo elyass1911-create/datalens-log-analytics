@@ -262,6 +262,7 @@ Execution Time: 7.114 ms
   - direct bucketing with epoch/trunc stayed stable (`~12-14ms`)
   - `generate_series` showed higher variance under optimized profile in this run
 - EXPLAIN plans clearly show index usage differences between baseline and optimized profiles.
+- Benchmark values can vary by host resources, container warmup, PostgreSQL cache state, and data distribution; compare profiles on the same machine and same dataset window.
 
 ## Testing
 
@@ -293,6 +294,12 @@ pwsh ./scripts/final-proof.ps1 -BaseUrl http://localhost:8081 -Dataset 100000 -I
 ```
 
 Artifacts are written to `docs/proof/`. Final checklist: `docs/FINALIZATION.md`.
+
+Generated evidence in `docs/proof/` includes:
+- seed run outputs
+- baseline vs optimized benchmark results
+- EXPLAIN ANALYZE responses
+- sample analytics endpoint responses
 
 ## CV-Ready Highlights
 
